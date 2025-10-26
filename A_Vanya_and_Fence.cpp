@@ -4,7 +4,6 @@ int main()
 {
     int nf,fh;
     cin>>nf>>fh;
-    
     int h;
     int w=0;
     for(int i=0;i<nf;i++)
